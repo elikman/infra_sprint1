@@ -7,7 +7,7 @@ from kittygram_backend import settings as raw_settings
 
 def test_debug():
     assert not raw_settings.DEBUG, (
-        'Убедидесь, что для параметра `DEBUG` в файле настроек `settings.py` '
+        'Убедитесь, что для параметра `DEBUG` в файле настроек `settings.py` '
         'бекэнд части проекта `Kittygram` значением является `False`.'
     )
 
