@@ -2,8 +2,6 @@ import base64
 
 from django.core.files.base import ContentFile
 from rest_framework import serializers
-import webcolors
-
 
 import datetime as dt
 
