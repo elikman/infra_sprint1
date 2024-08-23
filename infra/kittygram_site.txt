@@ -1,6 +1,6 @@
 IP: 89.169.171.114;
 name_taski: https://taskistudy.serveftp.com;
-name_kittygram: http://kittygrampracticum.serveftp.com/;
+name_kittygram: https://kittygrampracticum.serveftp.com/;
 login: admin;
 password: admin;
 
