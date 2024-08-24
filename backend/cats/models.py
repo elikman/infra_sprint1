@@ -25,7 +25,7 @@ class Cat(models.Model):
         through='AchievementCat'
     )
     image = models.ImageField(
-        upload_to='images/',
+        upload_to='media/cats/images/',
         null=True,
         default=None
     )
